@@ -1,3 +1,14 @@
 header {
-    background-color: darkred;
+  background-color: darkred;
+  color: lightgray;
+  text-align: center;
+}
+
+main {
+  background-color: lightgray;
+}
+
+body {
+  background-image: url("record.png");
+  background-repeat: repeat;
 }
